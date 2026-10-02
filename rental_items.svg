@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Rincian kostum dalam penyewaan</title>
+  <path d="M32 20h70l27 27v96H32V20Z" fill="#FFF9ED" stroke="#4A2C24" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M102 20v27h27" fill="#E9DDC8" stroke="#4A2C24" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M48 63h48m-48 35h48m-48 35h48" stroke="#D5C7B3" stroke-width="2" stroke-linecap="round"/>
+  <path d="m51 76 7-9 7 9-7 10-7-10Z" fill="#A94F59" stroke="#4A2C24" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m51 111 7-9 7 9-7 10-7-10Z" fill="#416B55" stroke="#4A2C24" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m51 146 7-9 7 9-7 10-7-10Z" fill="#D4B14E" stroke="#4A2C24" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="112" cy="76" r="12" fill="#7A2635" stroke="#4A2C24" stroke-width="2.5"/><path d="M112 70v12m-4-4 4 4 4-4" stroke="#FFF9ED" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="112" cy="111" r="12" fill="#416B55" stroke="#4A2C24" stroke-width="2.5"/><path d="M108 111h8" stroke="#FFF9ED" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

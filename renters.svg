@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Dua pelanggan studio tari</title>
+  <path d="M18 143c2-30 17-46 39-46s37 16 39 46H18Z" fill="#416B55" stroke="#4A2C24" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M21 111c9-9 23-14 36-14s27 5 36 14" stroke="#D7B95C" stroke-width="4"/>
+  <circle cx="57" cy="60" r="27" fill="#E8B98F" stroke="#4A2C24" stroke-width="3"/>
+  <path d="M30 57c0-22 12-35 29-35 15 0 26 10 27 28-8-7-17-11-28-10-9 1-19 7-28 17Z" fill="#30251F" stroke="#4A2C24" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="48" cy="62" r="2" fill="#30251F"/><circle cx="66" cy="62" r="2" fill="#30251F"/><path d="M51 74q6 5 12 0" stroke="#8E5144" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M88 143c1-24 13-36 31-36s30 12 31 36H88Z" fill="#A94F59" stroke="#4A2C24" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="119" cy="70" r="22" fill="#D9A57C" stroke="#4A2C24" stroke-width="3"/>
+  <path d="M97 68c0-18 10-29 23-29 12 0 21 8 22 23-7-5-15-7-23-6-8 1-15 5-22 12Z" fill="#30251F" stroke="#4A2C24" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="112" cy="71" r="1.8" fill="#30251F"/><circle cx="126" cy="71" r="1.8" fill="#30251F"/><path d="M114 81q5 4 10 0" stroke="#8E5144" stroke-width="2" stroke-linecap="round"/>
+</svg>

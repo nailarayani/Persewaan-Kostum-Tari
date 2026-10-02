@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Kostum tari tradisional di gantungan</title>
+  <ellipse cx="80" cy="145" rx="48" ry="7" fill="#E8DECE"/>
+  <path d="M80 19c0-8 12-8 12 0 0 5-4 7-8 10L43 48h74L76 29" stroke="#4A2C24" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m43 48-11 18 16 8 10-11 8 13-8 19h44l-8-19 8-13 10 11 16-8-11-18-22-5-15 12-15-12-22 5Z" fill="#A94F59" stroke="#4A2C24" stroke-width="3" stroke-linejoin="round"/>
+  <path d="m68 55 12 10 12-10-5 19H73l-5-19Z" fill="#F7F0E3" stroke="#4A2C24" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M59 94h42l13 42H46l13-42Z" fill="#604035" stroke="#4A2C24" stroke-width="3" stroke-linejoin="round"/>
+  <path d="m54 111 55 12M51 128l53 8m-1-25-41 25m28-32-37 28" stroke="#E4C979" stroke-width="2" stroke-linecap="round"/>
+  <path d="M72 84h16m-13 7h10" stroke="#D5AE4F" stroke-width="3" stroke-linecap="round"/>
+</svg>
