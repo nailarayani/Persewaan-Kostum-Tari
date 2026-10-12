@@ -2,6 +2,10 @@
 
 Aplikasi persediaan dan persewaan kostum tari tradisional dengan frontend HTML/CSS/JavaScript, backend Node.js bawaan, dan Supabase Postgres.
 
+## Web
+
+Kunjungi aplikasi: [Persewaan Kostum Tari](https://nailarayani.github.io/Persewaan-Kostum-Tari/)
+
 ## Struktur
 
 ```text
